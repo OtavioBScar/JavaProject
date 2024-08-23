@@ -2,7 +2,7 @@ package lista1;
 
 import javax.swing.JOptionPane;
 
-public class ConsumidorDeClasses {
+public class ConsumidorDeClassesL1 {
 
 	public static void main(String[] args) {
 		//Consome classe MetrosParaCm

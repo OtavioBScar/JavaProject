@@ -2,7 +2,7 @@ package lista2;
 
 import javax.swing.JOptionPane;
 
-public class ConsumidorDeClasses {
+public class ConsumidorDeClassesL2 {
 
 	public static void main(String[] args) {
 		// consome classe PorcentagemAumento
